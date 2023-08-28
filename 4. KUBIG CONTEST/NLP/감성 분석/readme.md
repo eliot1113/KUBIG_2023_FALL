@@ -5,6 +5,7 @@ NLP 분반에서 학습한 감성 분석을 통해 다른 사람과 채팅을 �
 ## 사용된 데이터
 
 감성 대화 말뭉치: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
+
 네이버 영화 리뷰 감성 데이터: https://github.com/e9t/nsmc
 
 ## 프로젝트 목적
